@@ -13,7 +13,7 @@ fn main() {
     let mut line = Line { line, pointer: 0 };
     // Allowed characters: < > + - .
     // <, move pointer left
-    // >, moev pointer right
+    // >, move pointer right
     // +, increment current index by 1
     // -, decrement current index by 1
     // ., print ascii character for the value stored in the index
